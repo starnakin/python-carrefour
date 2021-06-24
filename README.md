@@ -1,5 +1,5 @@
 # python-carrefour
-###categories scrapped :
+### categories scrapped :
   * bio-et-ecologie
   * fruits-et-legumes
   * viandes-et-poissons
