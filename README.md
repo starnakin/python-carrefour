@@ -19,4 +19,6 @@
   *bio-et-ecologie
 
 #pip install
-```pip install bs4```
+```
+pip install bs4
+```
